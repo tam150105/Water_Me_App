@@ -1,0 +1,44 @@
+
+<resources>
+    <!-- Tên ứng dụng -->
+    <string name="app_name">Tưới Cây</string>
+
+    <!-- Lời nhắc -->
+    <string name="remind_me">Hãy nhắc tôi tưới cây %s sau…</string>
+    <string name="five_seconds">5 giây nữa</string>
+    <string name="one_day">1 ngày</string>
+    <string name="one_week">1 tuần</string>
+    <string name="one_month">1 tháng</string>
+    <string name="water">Tưới nước</string>
+    <string name="time_to_water">Đã đến lúc tưới cây %s rồi!</string>
+
+    <!-- Tên cây -->
+    <string name="lithop">Lithop</string>
+    <string name="carrot">Cà rốt</string>
+    <string name="peony">Hoa mẫu đơn</string>
+    <string name="pothos">Trầu bà</string>
+    <string name="fiddle_leaf_fig">Bàng Singapore</string>
+    <string name="strawberry">Dâu tây</string>
+
+    <!-- Tần suất tưới -->
+    <string name="daily">mỗi ngày</string>
+    <string name="weekly">mỗi tuần</string>
+    <string name="monthly">mỗi tháng</string>
+
+    <!-- Loại cây -->
+    <string name="succulent">Cây mọng nước</string>
+    <string name="root">Cây thân rễ</string>
+    <string name="flower">Cây hoa</string>
+    <string name="houseplant">Cây trồng trong nhà</string>
+    <string name="broadleaf_evergreen">Cây lá rộng thường xanh</string>
+    <string name="fruit">Cây ăn quả</string>
+
+    <!-- Mô tả cây -->
+    <string name="stone_mimicking_succulent">Loài mọng nước giống như đá</string>
+    <string name="hardy_root_vegetable">Rau củ có rễ cứng cáp, chịu hạn</string>
+    <string name="spring_blooming_flower">Hoa nở rộ vào mùa xuân</string>
+    <string name="indoor_vine">Dây leo trong nhà dễ chăm sóc</string>
+    <string name="ornamental_fig">Cây sung cảnh trang trí</string>
+    <string name="delicious_multiple_fruit">Trái cây mọng nước, nhiều múi, ngon miệng</string>
+</resources>
+
